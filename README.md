@@ -126,4 +126,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - EfficientNet implementation based on [TensorFlow's EfficientNet](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)
 - Eye detection methodology inspired by research paper: "Driver drowsiness detection and smart alerting using deep learning and IoT" (2023)
-- To my project mate: Telna Chacko and Arshida
